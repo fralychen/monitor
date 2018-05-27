@@ -3,10 +3,10 @@
 from paramiko import SSHClient
 from paramiko import AutoAddPolicy
 
-ip = '47.90.100.35'
-prot = 22
-user = 'root'
-passwd = 'xn275267883*'
+ip = ''
+prot = 
+user = ''
+passwd = ''
 
 cmd = 'pwd'
 
